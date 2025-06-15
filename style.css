@@ -1,0 +1,33 @@
+body {
+  background: #e3350d;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  color: #2c2c2c;
+}
+
+h1 {
+  color: #3B4CCA; 
+  font-size: 22px;
+}
+
+img {
+  width: 1069px;
+  margin: 16px 0;
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.1) rotate(2deg);
+}
+
+p {
+  font-size: 17px;
+  color: #0075BE;
+  background-color: #FFCC00; 
+  display: inline-block;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 12px;
+} 
